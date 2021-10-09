@@ -16,7 +16,7 @@ The coronavirus dataset is mainly taken from: (https://www.kaggle.com/mesumraza/
 **Clean, transform, and load data in Power BI:**
 The data is cleaned in Power BI by renaming the data, removing null values, replacing, and changing formats, deleting rows, dropped columns and setting key attributes. The data was modified and some additional data is taken from other online sources as well.
 
-
-
+# Power BI Useful Insights for COVID-19 Outbreak :
 Using Power BI we can analyse and visualize COVID-19 data to keep the communities informed at the city, provincial and country level. We try to cover outbreak of COVID-19 in Pakistan , Regional Statistics, Recent Trends and Forecasting, Overview of Capital (Islamabad) , AK (Azad Kashmir) and rest of Provinces, particularly details of Punjab, City Level Details as well as Top 5 Cities Level Reports (Active Cases), Diagnosis and Overview of Facilities of Coronavirus Patients, Flight Info in Pandemic COVID-19 and News Feed and Timeline through these visualizations.  
-You can also see detailed blog here: https://medium.com/pakistans-covid-19-visualizations-using-power-bi/pakistans-covid-19-visualizations-using-power-bi-a8c3855b8cff
+
+**Note:** You can download Power BI file from this repository, simply download and load the dataset and run the file.  For further information you can also see detailed blog here: https://medium.com/pakistans-covid-19-visualizations-using-power-bi/pakistans-covid-19-visualizations-using-power-bi-a8c3855b8cff
