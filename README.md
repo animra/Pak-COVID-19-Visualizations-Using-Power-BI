@@ -4,7 +4,7 @@
 COVID-19 is the disease caused by SARS-CoV-2, the coronavirus that emerged in December 2019. The Novel COVID-19 Coronavirus outbreak is a serious matter that is affecting Pakistan in ways that we are only beginning to understand. 
 
 # Power BI:
-Power BI is a cloud-based business analytics service from Microsoft that enables anyone to visualize and analyze data, with better speed and efficiency.Power-Bi is an all-in-one high-level tool for the data analytics part of data science. Microsoft Power BI is an easy tool to use. We made these visualizations with the help of this tool you can get the better understanding of COVID-19 outbreak and how it is taking over Pakistan through these dashboards. You can download Power BI from: (https://powerbi.microsoft.com/en-us/downloads/)
+Power BI is a cloud-based business analytics service from Microsoft that enables anyone to visualize and analyze data, with better speed and efficiency. Power-Bi is an all-in-one high-level tool for the data analytics part of data science. Microsoft Power BI is an easy tool to use. We made these visualizations with the help of this tool you can get the better understanding of COVID-19 outbreak and how it is taking over Pakistan through these dashboards. You can download Power BI from: (https://powerbi.microsoft.com/en-us/downloads/)
 
 **How to use PowerBI?** You can get help from (https://docs.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started)
 
