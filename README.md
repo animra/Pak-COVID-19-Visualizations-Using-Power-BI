@@ -5,6 +5,7 @@ COVID-19 is the disease caused by SARS-CoV-2, the coronavirus that emerged in De
 
 # Dataset:
 The coronavirus dataset is mainly taken from: (https://www.kaggle.com/mesumraza/corona-virus-pakistan-dataset-2020)
+
 **Additonal Sources** :http://covid.gov.pk/ and https://covidupdates.pk/ 
 
 # Power BI:
