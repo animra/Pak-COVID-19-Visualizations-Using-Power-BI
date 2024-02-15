@@ -1,4 +1,4 @@
-# Pak COVID-19 Visualizations Using Power-BI
+# COVID-19 Visualizations Using Power-BI
 
 # Know about COVID-19:
 COVID-19 is the disease caused by SARS-CoV-2, the coronavirus that emerged in December 2019. The Novel COVID-19 Coronavirus outbreak is a serious matter that is affecting Pakistan in ways that we are only beginning to understand. 
